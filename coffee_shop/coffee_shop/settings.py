@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'crispy_forms',
     'crispy_tailwind',
     'products',
-    'users'
+    'users',
+    'orders'
 ]
 
 MIDDLEWARE = [
