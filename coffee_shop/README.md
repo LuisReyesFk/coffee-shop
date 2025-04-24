@@ -25,4 +25,10 @@ which python3
 
 # run app
 psql postgres
+
+# create super user
+python3 manage.py createsuperuser
+# luis
+# admin@admin.com
+# finkargo
 ```
